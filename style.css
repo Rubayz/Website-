@@ -1,0 +1,39 @@
+.redColor {
+    color: red;
+}
+body { 
+    font-family: sans-serif ;
+    line-height: 26px;
+    color: #777777;
+}
+.half-width {
+    width: 50%;
+    float: left;
+}
+.side-img { 
+    width: 100%;
+}
+.primary-btn {
+    color: white;
+    background-color: rebeccapurple;
+    padding: 10px;
+    border-radius:10px;
+    text-decoration:none;
+}
+h1 { 
+    font-size: 2em;
+}
+.container {
+    display: inline-block;
+    padding-left: 5%;
+}
+.experiences {
+    	padding: 30px;
+    	margin: 30px;
+	    border-radius: 20px;
+	    background-color: lightgray;
+}
+.experience-item {
+    padding: 20px;
+    border-left:1px solod rgba(137, 130, 170,. 2 )
+}
